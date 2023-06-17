@@ -242,4 +242,81 @@ ul li span:hover{
 .dark ul li.checked::before{
     background-image: url(checked-dark.png);
 }
-/*#0B193D, #40465B, #D4D8C5*/
+
+
+/*responsive css*/
+
+@media(max-width: 530px) and (min-width: 320px){
+
+
+    .container{
+        width: 100vw;
+        min-width: 320px;
+        max-width: 530px;
+    }
+
+    .name-and-mode{
+        min-width: 320px;
+        max-width: 530px;
+        width: 100%;
+        margin-bottom: 0px;
+        padding: 10px;
+    }
+
+    .todo-app {
+        width: 100%;
+        max-width: 530px;
+        border-radius: 10px;
+        padding: 8px;
+        margin: 10px;
+    }
+
+    label {
+        padding: 5px;
+        width: 65px;
+    }
+
+    .row {
+        padding-left: 5px;
+        margin-bottom: 10px;
+    }
+
+    input {
+        flex: 1;
+        border: none;
+        outline: none;
+        background: transparent;
+        padding: 5px;
+    }
+
+    button {
+        padding: 8px 25px;
+        font-size: 14px;
+        border-radius: 40px;
+    }
+
+    ul li {
+        font-size: 14px;
+        padding: 8px 5px 8px 50px;
+    }
+
+    ul li::before{
+        height: 28px;
+        width: 28px;
+        border-radius: 50%;
+        top: 8px;
+        left: 10px;
+    }
+    
+    ul li span {
+        right: 0;
+        top: 8px;
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    
+}
+
+
