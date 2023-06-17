@@ -1,2 +1,10 @@
 # cute-todo-app
 This project is a to-do app with dark mode and Local Storage to save information.
+
+This is a simple to-do list project, where the user can add tasks, mark them as done, unmark them as done, and delete them. An interesting aspect of this application is the use of Local Storage to store the list items. Therefore, if the user closes the browser and returns, they won't lose the information contained in the list.
+
+The stack used for this project was quite simple: HTML, CSS, and JavaScript.
+
+This project was relatively quick to create and very interesting because it was the first time I used Local Storage and also the first time I implemented a dark mode for a page, which was also quite simple.
+
+Project deployment:
