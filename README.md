@@ -9,3 +9,8 @@ This project was relatively quick to create and very interesting because it was 
 
 Project deployment:
 The deployment was done using the Railway platform, which is extremely simple, allowing the possibility to deploy directly from a GitHub repository.
+
+![image](https://github.com/aggsdp/cute-todo-app/assets/102918151/d7a44c9f-f496-459b-b91a-fec9dc28b420)
+
+![image](https://github.com/aggsdp/cute-todo-app/assets/102918151/7c6779b9-5c7f-4980-86db-c970a707cbd8)
+
