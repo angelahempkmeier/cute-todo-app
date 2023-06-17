@@ -8,3 +8,4 @@ The stack used for this project was quite simple: HTML, CSS, and JavaScript.
 This project was relatively quick to create and very interesting because it was the first time I used Local Storage and also the first time I implemented a dark mode for a page, which was also quite simple.
 
 Project deployment:
+The deployment was done using the Railway platform, which is extremely simple, allowing the possibility to deploy directly from a GitHub repository.
